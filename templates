@@ -1,0 +1,5 @@
+:class template
+*access =class ident ={ =}
+
+:class member declaration
+*access *=static type method_name 

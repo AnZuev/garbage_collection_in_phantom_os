@@ -1,0 +1,33 @@
+package firstOne;
+
+public class HelloWorld {
+    public String ex, avf;
+    
+    public static void main(String[] args, SomeClassName c) {
+        
+        String f = 'Hello!!!';
+        
+        String a = c;
+        String b = new String(a, f);
+        String df = "sbf";
+        //a = "434";
+        //a = b;
+        return b;
+    }
+    
+    private static void print(String a){
+        // something happened
+        int f = 43;
+        int d = 123 + a;
+        int g = new String(a);
+        bla.pass_forword(g);
+        return f;
+    }
+    
+    private static void print2(String a){
+        int b = 23;
+        return b;
+    }
+}
+
+//({'a', 'args', 'b', 'c'}, {'d', 'f', 'fg'})

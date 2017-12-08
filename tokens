@@ -1,0 +1,45 @@
+# format: token_string, token_group, token_name(optional, if none then token_string is used)
+public access
+private access
+protected access
+
+class type
+enum type
+int type
+char type
+double type
+float type
+void type
+
+new new
+return return
+
+( lparenth
+) rparenth
+{ lcurve
+} rcurve
+[ lbracket
+] rbracket
+; semicolon
+: colon
+, comma
+. dot
+
+- minus
++ plus
+* multipy
+/ divide
+
+" double_quote
+' single_quote
+
+= assign
+-= minus_and_assign
++= plus_and_assign
+*= multipy_and_assign
+/= divide_and_assign
+
+> greater
+< less
+>= greater_or_equal
+<= less_or_equal
